@@ -94,7 +94,7 @@
             // 
             // label2
             // 
-            this.label2.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(60, 103);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(163, 23);
@@ -104,17 +104,17 @@
             // 
             // textBox1
             // 
-            this.textBox1.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(229, 103);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(396, 33);
+            this.textBox1.Size = new System.Drawing.Size(396, 25);
             this.textBox1.TabIndex = 10;
             this.textBox1.Text = "บริษัท มีดีไซต์ ซอฟแวร์ แอนด์ โซลูชั่น จำกัด";
             // 
             // textBox2
             // 
-            this.textBox2.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(229, 142);
+            this.textBox2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.Location = new System.Drawing.Point(229, 134);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(396, 63);
@@ -123,8 +123,8 @@
             // 
             // label3
             // 
-            this.label3.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(60, 142);
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(60, 134);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(163, 23);
             this.label3.TabIndex = 11;
@@ -133,17 +133,17 @@
             // 
             // textBox3
             // 
-            this.textBox3.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(229, 466);
+            this.textBox3.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox3.Location = new System.Drawing.Point(229, 417);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(396, 33);
+            this.textBox3.Size = new System.Drawing.Size(396, 25);
             this.textBox3.TabIndex = 14;
             this.textBox3.Text = "192.168.1.100";
             // 
             // label4
             // 
-            this.label4.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(60, 469);
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(60, 420);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(163, 23);
             this.label4.TabIndex = 13;
@@ -152,17 +152,17 @@
             // 
             // textBox4
             // 
-            this.textBox4.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox4.Location = new System.Drawing.Point(229, 505);
+            this.textBox4.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox4.Location = new System.Drawing.Point(229, 448);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(396, 33);
+            this.textBox4.Size = new System.Drawing.Size(396, 25);
             this.textBox4.TabIndex = 16;
             this.textBox4.Text = "medesignsoft";
             // 
             // label5
             // 
-            this.label5.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(60, 508);
+            this.label5.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(60, 451);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(163, 23);
             this.label5.TabIndex = 15;
@@ -171,17 +171,17 @@
             // 
             // textBox5
             // 
-            this.textBox5.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox5.Location = new System.Drawing.Point(229, 544);
+            this.textBox5.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox5.Location = new System.Drawing.Point(229, 479);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(396, 33);
+            this.textBox5.Size = new System.Drawing.Size(396, 25);
             this.textBox5.TabIndex = 18;
             this.textBox5.Text = "sa";
             // 
             // label6
             // 
-            this.label6.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(60, 547);
+            this.label6.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(60, 482);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(163, 23);
             this.label6.TabIndex = 17;
@@ -190,18 +190,18 @@
             // 
             // textBox6
             // 
-            this.textBox6.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox6.Location = new System.Drawing.Point(229, 583);
+            this.textBox6.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox6.Location = new System.Drawing.Point(229, 510);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(396, 33);
+            this.textBox6.Size = new System.Drawing.Size(396, 25);
             this.textBox6.TabIndex = 20;
             this.textBox6.Text = "123456789";
             this.textBox6.UseSystemPasswordChar = true;
             // 
             // label7
             // 
-            this.label7.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(60, 586);
+            this.label7.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(60, 513);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(163, 23);
             this.label7.TabIndex = 19;
@@ -210,17 +210,17 @@
             // 
             // textBox7
             // 
-            this.textBox7.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox7.Location = new System.Drawing.Point(229, 211);
+            this.textBox7.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox7.Location = new System.Drawing.Point(229, 203);
             this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(396, 33);
+            this.textBox7.Size = new System.Drawing.Size(396, 25);
             this.textBox7.TabIndex = 22;
             this.textBox7.Text = "10280";
             // 
             // label8
             // 
-            this.label8.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(60, 211);
+            this.label8.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(60, 203);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(163, 23);
             this.label8.TabIndex = 21;
@@ -229,17 +229,17 @@
             // 
             // textBox8
             // 
-            this.textBox8.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox8.Location = new System.Drawing.Point(229, 250);
+            this.textBox8.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox8.Location = new System.Drawing.Point(229, 234);
             this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(396, 33);
+            this.textBox8.Size = new System.Drawing.Size(396, 25);
             this.textBox8.TabIndex = 24;
             this.textBox8.Text = "0832949599, 02 779 1254";
             // 
             // label9
             // 
-            this.label9.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(60, 250);
+            this.label9.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(60, 234);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(163, 23);
             this.label9.TabIndex = 23;
@@ -248,17 +248,17 @@
             // 
             // textBox9
             // 
-            this.textBox9.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox9.Location = new System.Drawing.Point(229, 367);
+            this.textBox9.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox9.Location = new System.Drawing.Point(229, 327);
             this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(396, 33);
+            this.textBox9.Size = new System.Drawing.Size(396, 25);
             this.textBox9.TabIndex = 26;
             this.textBox9.Text = "3 6607 00205 49 6";
             // 
             // label10
             // 
-            this.label10.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(60, 367);
+            this.label10.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(60, 327);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(163, 23);
             this.label10.TabIndex = 25;
@@ -267,17 +267,17 @@
             // 
             // textBox10
             // 
-            this.textBox10.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox10.Location = new System.Drawing.Point(229, 289);
+            this.textBox10.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox10.Location = new System.Drawing.Point(229, 265);
             this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(396, 33);
+            this.textBox10.Size = new System.Drawing.Size(396, 25);
             this.textBox10.TabIndex = 28;
             this.textBox10.Text = "0832949599, 02 779 1254";
             // 
             // label11
             // 
-            this.label11.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(60, 289);
+            this.label11.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(60, 265);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(163, 23);
             this.label11.TabIndex = 27;
@@ -286,17 +286,17 @@
             // 
             // textBox11
             // 
-            this.textBox11.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox11.Location = new System.Drawing.Point(229, 328);
+            this.textBox11.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox11.Location = new System.Drawing.Point(229, 296);
             this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(396, 33);
+            this.textBox11.Size = new System.Drawing.Size(396, 25);
             this.textBox11.TabIndex = 30;
             this.textBox11.Text = "peantia.s@live.com";
             // 
             // label12
             // 
-            this.label12.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(60, 328);
+            this.label12.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(60, 296);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(163, 23);
             this.label12.TabIndex = 29;
@@ -305,17 +305,17 @@
             // 
             // textBox12
             // 
-            this.textBox12.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox12.Location = new System.Drawing.Point(229, 406);
+            this.textBox12.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox12.Location = new System.Drawing.Point(229, 358);
             this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(396, 33);
+            this.textBox12.Size = new System.Drawing.Size(396, 25);
             this.textBox12.TabIndex = 32;
             this.textBox12.Text = "MEDS-9876-5432-1000";
             // 
             // label13
             // 
-            this.label13.Font = new System.Drawing.Font("TH Sarabun New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(60, 406);
+            this.label13.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.Location = new System.Drawing.Point(60, 358);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(163, 23);
             this.label13.TabIndex = 31;
@@ -327,8 +327,8 @@
             this.btnExit.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnExit.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnExit.Font = new System.Drawing.Font("TH Sarabun New", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExit.Location = new System.Drawing.Point(475, 622);
+            this.btnExit.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExit.Location = new System.Drawing.Point(475, 541);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(150, 40);
             this.btnExit.TabIndex = 33;
@@ -341,8 +341,8 @@
             this.btnSave.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnSave.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSave.Font = new System.Drawing.Font("TH Sarabun New", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSave.Location = new System.Drawing.Point(229, 622);
+            this.btnSave.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSave.Location = new System.Drawing.Point(229, 541);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(150, 40);
             this.btnSave.TabIndex = 34;
